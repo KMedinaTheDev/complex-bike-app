@@ -1,0 +1,29 @@
+body{
+  display: flex;
+  background: blue;
+}
+
+body > div{
+  flex-grow: 10;
+  border: 1px solid black;
+  border-radius: 5px;
+  background: royalblue;
+}
+button{
+  margin-left: 30%;
+}
+div + div{
+  flex-grow: 50;
+  background: lightblue;
+}
+h1, footer{
+  text-align: center;
+}
+h2, h3{
+  color:gold;
+  font-weight: bold;
+  text-align: center;
+}
+.dogContain img{
+  margin: 15%;
+}
