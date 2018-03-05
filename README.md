@@ -18,4 +18,4 @@ While developing this web application I learned how to access multiple propertie
 
 ## Examples:
 
-**Palettable:** https://github.com/alecortega/palettable
+**Palettable:** 
